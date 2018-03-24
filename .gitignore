@@ -13,3 +13,6 @@ Session.vim
 
 # modelsim design library
 niosii/*
+
+# vunit generated
+vunit_out/*
