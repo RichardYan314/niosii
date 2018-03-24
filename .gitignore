@@ -10,3 +10,6 @@ Session.vim
 # Temporary
 .netrwhist
 *~
+
+# modelsim design library
+niosii/*
